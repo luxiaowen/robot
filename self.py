@@ -12,4 +12,3 @@
 
 
 print 'who is the dashen of Maimiaotech'
-print 'xx'
